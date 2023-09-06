@@ -2,4 +2,5 @@ title: Sivaraj Shankar
 logo: /assets/img/Photo.png
 #description: text below image
 #show_downloads: true
-theme: Minima
+#theme: Minima
+theme: jekyll-theme-minimal
