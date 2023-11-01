@@ -1,7 +1,8 @@
 title: Sivaraj Sankar
 logo: /assets/img/CirclePhoto.png
-description_1: Aspiring Data Scientist
-description_2: Software Developer-BFSI Domain
+description: |
+  Aspiring Data Scientist                 
+  Software Developer - BFSI Domain
 show_downloads: true
 #theme: Minima
 theme: jekyll-theme-minimal
