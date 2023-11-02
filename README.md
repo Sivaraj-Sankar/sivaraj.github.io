@@ -9,7 +9,7 @@
   statistical methods, and predictive analytics using machine learning algorithms.
 - Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact. 			        		
 
-## Internship
+## Internship and Projects
 **Machine Learning Intern @ CodSoft (_Oct 2023 - Nov 2023_)**
 -	Participated in a machine learning internship at CodSoft, focusing on developing predictive models for various real-world applications.
 -	Engaged in hands-on projects involving data preprocessing, model selection, and evaluation.
