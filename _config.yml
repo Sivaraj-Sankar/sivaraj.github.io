@@ -3,6 +3,6 @@ logo: /assets/img/CirclePhoto.png
 description: 
   - Aspiring Data Scientist                 
   - ㅤㅤㅤㅤㅤㅤㅤㅤSoftware Developer BFSI Domain
-show_downloads: true
+#show_downloads: true
 #theme: Minima
 theme: jekyll-theme-minimal
