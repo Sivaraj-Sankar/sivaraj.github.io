@@ -1,4 +1,4 @@
-# Aspiring Data Scientist/Machine Learning Engineer
+# Aspiring Data Scientist/Machine Learning Ops Engineer
 
 #### Technical Skills: Applied Statistics, Applied Mathematics, Data Visualization, Machine Learning, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
 
@@ -10,6 +10,10 @@
 - Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact. 			        		
 
 ## Portfolio Projects & Internships
+**Portfolio Project**
+### Bank Marketing Campaigns Predictive Analysis Using Random Forest Machine Learning Algorithm
+[Click Here](https://github.com/Sivaraj-Sankar/Portfolio_Classification)
+
 **Machine Learning Intern @ CodSoft (_Oct 2023 - Nov 2023_)**
 -	Participated in a machine learning internship at CodSoft, focusing on developing predictive models for various real-world applications.
 -	Engaged in hands-on projects involving data preprocessing, model selection, and evaluation.
