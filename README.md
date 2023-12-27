@@ -11,16 +11,16 @@
 
 ## Portfolio Projects & Internships
 **Portfolio Project**
-### Bank Marketing Campaigns Predictive Analysis Using Random Forest Machine Learning Algorithm
+###### Bank Marketing Campaigns Predictive Analysis Using Random Forest Machine Learning Algorithm
 [Click Here for Project Details](https://github.com/Sivaraj-Sankar/Portfolio_Classification)
 
 ![Bank Marketing Campaigns](/assets/img/Global-banking.jpg)
 
 🔍 Overview:
-    Developed end-to-end project focused on predicting the subscription likelihood for term deposits in a bank's marketing campaign **Portuguese banking institution.**
-    The comprehensive process encompassed various stages, from Exploratory Data Analysis (EDA) to deploying a robust predictive model.
+* Developed end-to-end project focused on predicting the subscription likelihood for term deposits in a bank's marketing campaign **Portuguese banking institution.**
+* The comprehensive process encompassed various stages, from Exploratory Data Analysis (EDA) to deploying a robust predictive model.
 
-🔍 Key Steps:
+🔍 End-to-End Steps:
 
 **Exploratory Data Analysis (EDA):** Conducted in-depth analysis and exploration of the dataset, unveiling crucial insights and patterns that informed subsequent decisions.
 
