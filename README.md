@@ -14,7 +14,7 @@
 ### Bank Marketing Campaigns Predictive Analysis Using Random Forest Machine Learning Algorithm
 [Click Here](https://github.com/Sivaraj-Sankar/Portfolio_Classification)
 
-![Bank Marketing Campaigns](/assets/img/Global-banking.jpeg)
+![Bank Marketing Campaigns](/assets/img/Global-banking.jpg)
 
 **Machine Learning Intern @ CodSoft (_Oct 2023 - Nov 2023_)**
 -	Participated in a machine learning internship at CodSoft, focusing on developing predictive models for various real-world applications.
