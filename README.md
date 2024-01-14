@@ -7,7 +7,19 @@
 - Proficient in Mainframe (Natural/Adabas) and Java technologies. Personally learning and practicing in Data Science/Machine Learning for past 2 years.
 - Passionate about Data Scientist and also Machine Learning enthusiast with Strong understanding of data modelling,
   statistical methods, and predictive analytics using machine learning algorithms.
-- Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact. 			        		
+- Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact.
+
+## Course Works
+#### 📊 Applied Statistics Coursework:
+#### Topics Covered:
+- Descriptive Statistics
+- Probabilities and Bell Shape Curve
+- Z-Score Transformation
+- Hypothesis Testing
+- Confidence Interval
+- Standard Error
+- P-Value Determination
+- Various Statistical Tests (Chi-Square, ANOVA) etc
 
 ## Portfolio Projects & Internships
 **Portfolio Project**
