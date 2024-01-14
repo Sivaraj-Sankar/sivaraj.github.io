@@ -1,6 +1,6 @@
 # Aspiring Data Scientist/Machine Learning Ops Engineer
 
-#### Technical Skills: Applied Statistics, Applied Mathematics, Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
+#### Technical Skills: Applied Statistics, Applied Mathematics(Differential & Integral Calculus), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
 
 ## Profile Summary							       		
 - Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain for 3+ years.
@@ -10,7 +10,7 @@
 - Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact.
 
 ## Course Works
-#### 📊 Applied Statistics Coursework:
+#### 📊 Applied Statistics Coursework - LinkedIn:
 #### Topics Covered:
 - Descriptive Statistics
 - Probabilities and Bell Shape Curve
@@ -20,6 +20,15 @@
 - Standard Error
 - P-Value Determination
 - Various Statistical Tests (Chi-Square, ANOVA) etc
+
+#### 📊 IBM Data Science Specialization - Coursera:
+- Explored the entire spectrum of Data Science concepts and methodologies.
+- Covered Exploratory Data Analysis (EDA) and Data Visualization techniques.
+- In-depth study of Machine Learning algorithms and their practical applications.
+
+#### 📊 Deep Learning Specialization - Coursera:
+- Specialized in the domain of Deep Learning, exploring advanced neural network architectures.
+- Delved into topics such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
 
 ## Portfolio Projects & Internships
 **Portfolio Project**
