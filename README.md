@@ -41,6 +41,28 @@
 
 ## Portfolio Projects & Internships
 **Portfolio Project**
+##### AWS GenAI Workshop: Building Knowledge Bases and Agents for Amazon Bedrock
+![Knowledge Bases and Agents in Amazon BedRock](/assets/img/Global-banking.jpg)
+
+🔍 Overview:
+* Participated in an AWS GenAI Workshop focused on leveraging Amazon Bedrock to build generative AI applications.
+* The workshop involved creating an intelligent agent capable of analyzing vast amounts of company data and dynamically generating high-value investment portfolios.
+* The agent utilized proprietary data and Federal Open Market Committee reports to provide deeper market insights and informed decision-making for financial analysts and investors.
+
+🔍 WorkShop End-to-End Steps:
+
+**Using an Agent on Amazon Bedrock:** Set up an intelligent agent on Amazon Bedrock, integrating various components to enhance its functionality.
+**Setting up S3 Buckets:** Configured Amazon S3 buckets for data storage, enabling the agent to access and process large datasets efficiently.
+**Knowledge Base:** Developed a comprehensive knowledge base to provide the agent with essential information and context for analyzing company data.
+**Action Group:** Created action groups to define specific tasks and operations the agent could perform, such as data analysis, text summarization, and portfolio generation.
+**Lambda Function:** Implemented AWS Lambda functions for serverless computing, allowing the agent to execute code in response to triggers and streamline data processing.
+**Cloud9 Environment:** Utilized AWS Cloud9 for development and debugging, ensuring a seamless integration of various components and a smooth development workflow.
+**Streamlit Framework for User Interface:** Built a user-friendly interface using the Streamlit framework, enabling users to interact with the agent and access insights effortlessly.
+
+🔍 Project Outcome:
+The workshop's outcome was a robust agent designed to dynamically create top-profit company portfolios based on specific parameters and provide Q/A capabilities for Federal Open Market Committee reports. This agent facilitated strategic investment decisions by uncovering deeper market insights and trends, thereby revolutionizing traditional research and analysis methods.
+
+**Portfolio Project**
 ##### Bank Marketing Campaigns Predictive Analysis Using Random Forest Machine Learning Algorithm
 [Click Here for Project Details](https://github.com/Sivaraj-Sankar/Portfolio_Classification)
 
@@ -64,14 +86,3 @@
 -	Participated in a machine learning internship at CodSoft, focusing on developing predictive models for various real-world applications.
 -	Engaged in hands-on projects involving data preprocessing, model selection, and evaluation.
 -	Gained Skills in NLP techniques for text analysis, Vectorizing concept, Feature Engineering, Exploratory Data Analysis.
-
-**Machine Learning Intern @ CodSoft (_Oct 2023 - Nov 2023_)**
--	Participated in a machine learning internship at CodSoft, focusing on developing predictive models for various real-world applications.
--	Engaged in hands-on projects involving data preprocessing, model selection, and evaluation.
--	Gained Skills in NLP techniques for text analysis, Vectorizing concept, Feature Engineering, Exploratory Data Analysis.
-
-
-
-
-
-
