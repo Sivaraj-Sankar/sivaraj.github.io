@@ -1,6 +1,6 @@
-# Aspiring Data Scientist/Machine Learning Ops Engineer
+# Aspiring AI Engineer/LLMOps 
 
-#### Technical Skills: Applied Statistics, Applied Mathematics(Differential & Integral Calculus), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
+#### Technical Skills: Azure ML, Azure AI Engineer, GenAI Application Development, Agentic Workflow, Applied Statistics, Applied Mathematics(Differential & Integral Calculus), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
 
 ## Profile Summary							       		
 - Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain for 3+ years.
