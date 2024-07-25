@@ -9,16 +9,21 @@
 - Aspiring to Pursue my career transition goal towards the world of GenAI Advancement to bring valuable outcomes and significant impact.
 
 ## Course Works
-#### 📊 Applied Statistics Coursework - LinkedIn:
+#### 📊 GenAI Courses Covered in DeepLearning.AI Platform:
 #### Topics Covered:
-- Descriptive Statistics
-- Probabilities and Bell Shape Curve
-- Z-Score Transformation
-- Hypothesis Testing
-- Confidence Interval
-- Standard Error
-- P-Value Determination
-- Various Statistical Tests (Chi-Square, ANOVA) etc
+- LangChain for LLM Application Development 
+- LangChain Chat with Your Data
+- Finetuning Large Language Models 
+- How Business Thinkers Can Start Building AI Plugins With Semantic Kernel provided by Microsoft
+- Functions, Tools and Agents with LangChain 
+- Building and Evaluating Advanced RAG 
+- Automated Testing for LLMOps
+- Knowledge Graphs for RAG 
+- Building Agentic RAG with Llamaindex 
+- Multi AI Agent Systems with crewAI 
+- AI Agentic Design Patterns with AutoGen provided by Microsoft
+- AI Agents in LangGraph 
+- Building Your Own Database Agent 
 
 #### 📊 IBM Data Science Specialization - Coursera:
 - Explored the entire spectrum of Data Science concepts and methodologies.
@@ -26,8 +31,13 @@
 - In-depth study of Machine Learning algorithms and their practical applications.
 
 #### 📊 Deep Learning Specialization - Coursera:
-- Specialized in the domain of Deep Learning, exploring advanced neural network architectures.
-- Delved into topics such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
+- Understanding the basics of neural networks, including forward and backward propagation, activation functions, and gradient descent.
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+- Techniques to improve the performance of deep learning models. Covering topics such as hyperparameter tuning, regularization methods (L2 regularization, dropout), and advanced optimization algorithms (Adam, RMSprop).
+- Structuring Machine Learning Projects - Best practices for structuring and managing machine learning projects. Emphasis on setting up the development environment, handling data, and ensuring model reliability and reproducibility.
+- Deep dive into convolutional neural networks, which are crucial for image recognition and processing tasks. Topics include convolution operations, pooling layers, and popular CNN architectures (LeNet, AlexNet, VGG, ResNet).
+- Focus on sequence models such as Recurrent Neural Networks (RNNs), Long Short-Term Memory networks (LSTMs), and Gated Recurrent Units (GRUs). Applications in natural language processing, time series prediction, and speech recognition.
+
 
 ## Portfolio Projects & Internships
 **Portfolio Project**
