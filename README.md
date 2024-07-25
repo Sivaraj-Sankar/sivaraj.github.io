@@ -1,13 +1,12 @@
 # Aspiring AI Engineer/LLMOps 
 
-#### Technical Skills: Azure ML, Azure AI Engineer, GenAI Application Development, Agentic Workflow, Applied Statistics, Applied Mathematics(Differential & Integral Calculus), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
+#### Technical Skills: Azure ML, Azure AI Engineer, GenAI Application Development[Agentic Workflow], LLM FineTuning, Applied Statistics, Applied Mathematics(Differential), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
 
 ## Profile Summary							       		
 - Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain for 3+ years.
-- Proficient in Mainframe (Natural/Adabas) and Java technologies. Personally learning and practicing in Data Science/Machine Learning for past 2 years.
-- Passionate about Data Scientist and also Machine Learning enthusiast with Strong understanding of data modelling,
-  statistical methods, and predictive analytics using machine learning algorithms.
-- Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact.
+- Proficient in Mainframe (Natural/Adabas) and Java technologies. Personally learning and practicing in Machine Learning/AI Engineer[GenAI LLMOps] for past 2 years.
+- Have HandsOn Experience in leveraging large language models (LLMs) for creating intelligent solutions - Agentic Workflow and LLM Fine Tuning for specific UseCases  
+- Aspiring to Pursue my career transition goal towards the world of GenAI Advancement to bring valuable outcomes and significant impact.
 
 ## Course Works
 #### 📊 Applied Statistics Coursework - LinkedIn:
