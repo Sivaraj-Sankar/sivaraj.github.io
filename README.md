@@ -4,7 +4,7 @@
 
 ## Profile Summary							       		
 - Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain for 3+ years.
-- Proficient in Mainframe (Natural/Adabas) and Java technologies. Personally learning and practicing in Machine Learning/AI Engineer[GenAI LLMOps] for past 2 years.
+- Proficient in Python and Java technologies. Personally learning and practicing in Machine Learning/AI Engineer[GenAI LLMOps] for past 2 years.
 - Have HandsOn Experience in leveraging large language models (LLMs) for creating intelligent solutions - Agentic Workflow and LLM Fine Tuning for specific UseCases  
 - Aspiring to Pursue my career transition goal towards the world of GenAI Advancement to bring valuable outcomes and significant impact.
 - I am passionately aspiring to transition my career towards becoming an AI Engineer. Through continuous learning and practical application, I have developed a deep interest in AI and its transformative potential. I am eager to leverage my skills and knowledge in AI to contribute to innovative projects and drive impactful solutions.
