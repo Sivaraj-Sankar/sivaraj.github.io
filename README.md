@@ -1,4 +1,4 @@
-# Aspiring AI Engineer/LLMOps 
+# GenAI Engineer/LLMOps 
 
 #### Technical Skills: Azure ML, Azure AI Engineer, GenAI Application Development[Agentic Workflow], LLM FineTuning, Applied Statistics, Applied Mathematics(Differential), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
 
